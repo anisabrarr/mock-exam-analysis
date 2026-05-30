@@ -1,0 +1,9 @@
+Start Time,End Time,Timezone,First Name,Last Name,Phone,Email,Type,Label
+2025-07-01 09:00,2025-07-01 10:30,AEST,Alice,Alpha,0400000001,alice@ex.com,Year 11 Chemistry Mock Exam + Review,present
+2025-07-01 11:00,2025-07-01 12:30,AEST,Bob,Beta,0400000002,bob@ex.com,Year 11 Chemistry Mock Exam + Review,absent
+2025-07-02 09:00,2025-07-02 10:30,AEST,Carol,Charlie,0400000003,carol@ex.com,Year 11 Physics Mock Exam + Review,present
+2025-07-02 11:00,2025-07-02 12:30,AEST,Dave,Delta,0400000004,dave@ex.com,Year 11 Chemistry Mock Exam + Review,present
+2025-07-03 09:00,2025-07-03 10:30,AEST,Ella,Echo,0400000005,ella@ex.com,Year 11 Maths Mock Exam + Review,present
+2025-07-03 11:00,2025-07-03 12:30,AEST,Frank,Foxtrot,0400000006,frank@ex.com,Year 11 Maths Mock Exam + Review,present
+2025-07-04 09:00,2025-07-04 10:30,AEST,Hank,Hotel,0400000007,hank@ex.com,Year 11 Chemistry Mock Exam + Review,present
+2025-07-04 11:00,2025-07-04 12:30,AEST,Ian,India,0400000008,ian@ex.com,Year 11 Maths Mock Exam + Review,present

@@ -1,0 +1,7 @@
+studentId,email,phoneNumber,courseStates
+1,alice@ex.com,0400000001,"{""chem#chem12"":{""M"":{""state"":{""S"":""ACTIVE""},""subject"":{""S"":""chem""}}}}"
+2,bob@ex.com,0400000002,"{""phys#phys11"":{""M"":{""state"":{""S"":""ACTIVE""},""subject"":{""S"":""phys""}}}}"
+3,carol@ex.com,0400000003,"{""chem#chem11"":{""M"":{""state"":{""S"":""UNENROLLED""},""subject"":{""S"":""chem""}}}}"
+4,ella@ex.com,0400000005,""
+5,frank@ex.com,0400000006,"{""mtx1#mtx112"":{""M"":{""state"":{""S"":""ACTIVE""},""subject"":{""S"":""mtx112""}}}}"
+6,hank@ex.com,0400000007,"{""phys#phys11"":{""M"":{""state"":{""S"":""ACTIVE""},""subject"":{""S"":""phys""}}}}"
